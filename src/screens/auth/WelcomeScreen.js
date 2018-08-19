@@ -54,7 +54,6 @@ class WelcomeScreen extends PureComponent {
             buttonStyle={{}}
             textStyle={{
               color: '#FFFFFF',
-              fontFamily: 'typonil',
               fontSize: 19,
             }}
           />
@@ -66,7 +65,6 @@ class WelcomeScreen extends PureComponent {
             buttonStyle={{}}
             textStyle={{
               color: '#FFFFFF',
-              fontFamily: 'typonil',
               fontSize: 19,
             }}
           />
